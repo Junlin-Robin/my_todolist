@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 841.995 595.35" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<path d="M154.404 297.953C154.404 150.652 273.813 31.2435 421.112 31.2435C568.411 31.2435 687.821 150.652 687.821 297.953C687.821 445.252 568.411 564.661 421.112 564.661C273.813 564.661 154.404 445.252 154.404 297.953Z" id="Fill"/>
+</defs>
+<g id="图层-1">
+<g opacity="1">
+<mask height="533.418" id="StrokeMask" maskUnits="userSpaceOnUse" width="533.417" x="154.404" y="31.2435">
+<rect fill="#000000" height="533.418" stroke="none" width="533.417" x="154.404" y="31.2435"/>
+<use fill="#ffffff" fill-rule="evenodd" stroke="none" xlink:href="#Fill"/>
+</mask>
+<use fill="none" mask="url(#StrokeMask)" stroke="rgba(252,42,42,0.45)" stroke-linecap="butt" stroke-linejoin="round" stroke-opacity="0.741634" stroke-width="100" xlink:href="#Fill"/>
+</g>
+<path d="M263.712 297.675C263.712 210.809 334.131 140.389 420.997 140.389C507.863 140.389 578.283 210.809 578.283 297.675C578.283 384.542 507.863 454.961 420.997 454.961C334.131 454.961 263.712 384.542 263.712 297.675Z" fill="rgb(252,42,42)" fill-rule="nonzero" opacity="1" stroke="rgb(252,42,42)" stroke-linecap="butt" stroke-linejoin="round" stroke-width="10"/>
+</g>
+</svg>
